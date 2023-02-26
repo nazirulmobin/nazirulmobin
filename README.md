@@ -11,7 +11,7 @@ Skills: asp.net/MVC/Web API / REACT / JS /PHP/ HTML / CSS/Bootstrap/jquery/Ajax
 - 🌱 I’m currently learning React js 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nazirulmobin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/engr-md-nazirul-mobin-5a32b5143//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100004387608475)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://mobinhost.liveblog365.com/?i=1)  
+  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/nazirulmobin)](https://github.com/ryo-ma/github-profile-trophy)
 
